@@ -1,0 +1,11 @@
+name = "cf-nginx"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "nima.nscl.ir"
+UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
